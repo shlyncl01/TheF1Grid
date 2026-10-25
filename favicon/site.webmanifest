@@ -1,0 +1,21 @@
+{
+  "name": "The F1 Grid",
+  "short_name": "F1 Grid",
+  "icons": [
+    {
+      "src": "/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#fcf7f7",
+  "background_color": "#cb2020",
+  "display": "standalone"
+}
